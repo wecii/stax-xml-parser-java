@@ -20,6 +20,7 @@ public class Application {
     public static Persist PERSIST;
     public static final Parser PARSER = new Parser();
     public static Properties prop = new Properties();
+    
 
     public static void main(String[] args) throws InterruptedException, XMLStreamException, IOException {
 
